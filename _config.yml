@@ -5,14 +5,14 @@
 # Name of your site (displayed in the header)
 name: "みすかず同好小站"
 # Short bio or description (displayed in the header)
-description: "妈妈再也不用担心我嗑cp啦Version1 Testing Only"
+description: "妈妈再也不用担心我嗑cp啦"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/foggy0412/foggy0412.github.io/raw/master/images/blog.jpg
+avatar: https://s1.zerochan.net/A3%21.600.2117862.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
@@ -56,7 +56,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemonchann
+footer-text: Copyright (c) 2020 foggy
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -74,7 +74,7 @@ google_analytics: UA-152888548-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://foggy0412.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
