@@ -5,14 +5,14 @@
 # Name of your site (displayed in the header)
 name: "みすかず同好小站"
 # Short bio or description (displayed in the header)
-description: "Version1 Testing Only"
+description: "妈妈再也不用担心我嗑cp啦Version1 Testing Only"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/blog.jpg
+avatar: https://github.com/foggy0412/foggy0412.github.io/raw/master/images/blog.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
