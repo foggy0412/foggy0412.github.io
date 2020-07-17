@@ -1,3 +1,12 @@
+---
+layout: post
+title: "【みすかず】Hello World"
+date:   2020-7-17
+tags: [Foggy产出]
+comments: true
+author: foggy
+---
+
 // 斑鸠三角 x 三好一成
 
 // ABO育儿文学，提前避雷！！！
